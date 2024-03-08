@@ -1,0 +1,54 @@
+studentId, firstName, lastName, courseId, courseName, term, year
+123546851, john, smith,cst8288, Software Design Patterns,WINTER,2024
+9861534S2, jane, smyth,mat1101A, Intro to Math,FALL,2025
+3215619823, michael, hill,cst8288, Software Design Patterns,SUMMER,1955
+123456789,John,Doe,CST8290A,Software Design Patterns,WINTER,2024
+987654321,Jane,Smith,MAT1101,Intro to Math,FALL,2025
+123123123,Michael,Hill,CST8200,Software Design Patterns,SUMMER,2023
+124124124,Lisa,Jones,PHY2020,Physics II,SPRING,2022
+125125125,Mark,Brown,CST1234,Web Development,SUMMER,2024
+126126126,Emily,Davis,ENG1001,English Literature,WINTER,2023
+127127127,David,Clark,PSY1010,Introduction to Psychology,SUMMER,2023
+127127127,David,Clark,PSY1010,Introduction to Psychology,SUMMER,2023
+127127127,David,Clark,PSY2020,Psychology Advanced,FALL,2023
+127125000,Sara,Brown,PSY2020,Psychology Advanced,SPRING,2023
+513653999,Robert,Smith,BIO4954B,Art History,FALL,2015
+941597326N,David,Davis,CAL3389,Chemistry,SUMMER,1998
+402621084,Michael,Johnson,COM4274,Biology,,
+433018422,Jane,Johnson,CAL2933,Art History,WINTER,2025
+566188456,Anna,Martinez,CHE4959,Art History,FALL,2018
+659799206,David,Smith,ART4751,Software Design,WINTER,2015
+862628805,John,Martinez,ENG4391,Calculus,WINTER,2010
+855530426,Jane,Brown,COM1908,Chemistry,WINTER,2024
+581003665,Jane,Johnson,CAL4584,Art History,FALL,1996
+423676026,Charles,Jones,MAT3242,Calculus,SUMMER,2003
+958378321,Alice,Rodriguez,COM2178,English Lit,WINTER,2014
+440426463,Alice,Brown,BIO1753,Chemistry,WINTER,1992
+757960185,David,Davis,MAT1367,Physics,WINTER,1992
+186165974,Charles,Miller,ART2128,Art History,WINTER,2003
+829580033,Alice,Miller,COM2127,English Lit,FALL,2012
+188447324,Anna,Martinez,MAT2992,Computer Science,SUMMER,2011
+304417731,Emily,Smith,BIO1479,Chemistry,FALL,2000
+457057975,Robert,Smith,MAT4207,Physics,SUMMER,2004
+148569708,Alice,Rodriguez,COM3787,Intro to Math,WINTER,1997
+781825964,Emily,Martinez,COM1490,Statistics,WINTER,2013
+995333637,Jane,Smith,COM1088,Chemistry,WINTER,1997
+614573218,Emily,Smith,CST3229,Statistics,SUMMER,1996
+997543642,David,Johnson,CHE1294,Biology,FALL,2017
+293614873,John,Rodriguez,ENG1161,Computer Science,WINTER,2015
+314056651,David,Garcia,ENG4433,Computer Science,WINTER,2003
+923934009,John,Williams,PHY2402,Art History,FALL,1997
+740799873,Maria,Williams,CST2931,Statistics,SUMMER,2022
+434412592,Anna,Miller,BIO1628,Art History,SUMMER,1990
+591724582,Jane,Garcia,CST3229,Biology,WINTER,2005
+918370213,Maria,Garcia,COM2179,Calculus,SUMMER,1998
+868390427,David,Miller,STA4395,Intro to Math,WINTER,2002
+850097451,Anna,Williams,CHE1913,English Lit,FALL,2016
+133871702,Robert,Martinez,STA4162,Software Design,WINTER,2018
+168597402,David,Williams,ENG3160,English Lit,SUMMER,1990
+141779491,Maria,Garcia,BIO4431,English Lit,WINTER,2016
+301864855,Charles,Johnson,PHY1060,Statistics,SUMMER,2016
+439492618,John,Brown,CST3938,Software Design,SUMMER,2023
+757196528,Jane,Brown,MAT3491,Chemistry,FALL,2007
+839314194,Michael,Johnson,ENG4497,Statistics,SUMMER,1995
+123456429,David,Davis,MAT4528,Biology,WINTER,2023
